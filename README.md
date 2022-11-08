@@ -7,6 +7,7 @@
 - Sou leitora
 - Sou pesquisadora
 
-* Exemplo de Itálico *
-** Exemplo de Negrito **
+*Exemplo de Itálico*
+
+**Exemplo de Negrito**
 
